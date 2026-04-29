@@ -105,7 +105,7 @@ Restart Arduino IDE after copying the libraries.
 ### 5. Clone this repo
 
 ```bash
-git clone https://github.com/yourusername/orestes.git
+git clone https://github.com/Ayaanbhatti-dotcom/orestes.git
 cd orestes
 ```
 
