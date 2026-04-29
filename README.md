@@ -1,5 +1,8 @@
 # Orestes
 
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/56edf997-232e-47e6-969c-d31d36156f5a" />
+</br>
+
 > A Nintendo DS–themed cybersecurity toolkit for the Waveshare ESP32-S3-Touch-LCD-2. Scan WiFi networks, track BLE devices, map signal locations, and connect with other Orestes users via StreetPass — all from a 2-inch touchscreen in your pocket.
 
 ---
